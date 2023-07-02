@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ridango.game"},{"l":"com.ridango.game.controller"},{"l":"com.ridango.game.entity"},{"l":"com.ridango.game.repository"}];updateSearchResults();
